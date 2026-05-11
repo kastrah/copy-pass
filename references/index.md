@@ -1,4 +1,4 @@
-# Copy Pass — Public Copywriting Workflow
+# Copy Pass — Copywriting Workflow
 
 ## What this is
 A condensed playbook from marketing and copywriting books, structured for content planning, drafting, and humaniser review. Not reading material. Reference material.
