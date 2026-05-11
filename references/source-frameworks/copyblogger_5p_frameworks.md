@@ -1,6 +1,6 @@
 # Copyblogger 5P Approach — Framework Summary
 
-**Source:** Copyblogger, *The 5P Approach to Copy that Crushes It*
+**Source:** Copyblogger, *The 5P Approach to Copy That Crushes It*.
 
 Reusable framework for persuasive copy built around premise-driven storytelling.
 

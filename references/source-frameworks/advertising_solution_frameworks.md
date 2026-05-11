@@ -1,6 +1,6 @@
 # The Advertising Solution — Framework Notes
 
-**Source:** Craig Simpson & Brian Kurtz, *The Advertising Solution*  
+**Source:** Craig Simpson and Brian Kurtz, *The Advertising Solution*.
 **Use for:** direct-response strategy, promotion checklists, market research, headline discipline, testing, and timeless persuasion principles drawn from Hopkins, Collier, Caples, Ogilvy, Schwartz, and Halbert.
 
 ## Core premise

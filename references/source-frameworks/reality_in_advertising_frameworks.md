@@ -1,6 +1,6 @@
 # Reality in Advertising — Copywriting Frameworks
 
-**Book:** Rosser Reeves, *Reality in Advertising*  
+**Source:** Rosser Reeves, *Reality in Advertising*.
 **Focus:** reusable public principles for message discipline, USP development, and measurable advertising effectiveness.
 
 ## Core thesis

@@ -1,6 +1,6 @@
 # Tested Advertising Methods — Framework Notes
 
-**Source:** John Caples, *Tested Advertising Methods*  
+**Source:** John Caples, *Tested Advertising Methods*.
 **Use for:** headline development, direct-response structure, testing discipline, offer improvement, and practical ad diagnostics. The local source text appears to be poor OCR/image extraction, so these notes focus on the book’s established reusable frameworks and principles rather than page-specific quotations.
 
 ## Core premise

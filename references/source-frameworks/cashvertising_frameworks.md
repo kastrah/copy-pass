@@ -1,6 +1,6 @@
 # Cashvertising — Framework Summary
 
-**Source:** Drew Eric Whitman, *Cashvertising*
+**Source:** Drew Eric Whitman, *Cashvertising*.
 
 Reusable persuasion, advertising psychology, and direct-response copy principles.
 

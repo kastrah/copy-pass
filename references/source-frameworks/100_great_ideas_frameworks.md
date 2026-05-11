@@ -1,6 +1,6 @@
 # 100 Great Copywriting Ideas — Practical Framework Extraction
 
-**Source:** Andy Maslen, *100 Great Copywriting Ideas* (Marshall Cavendish, 2009)  
+**Source:** Andy Maslen, *100 Great Copywriting Ideas* (Marshall Cavendish, 2009).
 **Use case:** Copy Pass reference notes for writing, reviewing, and improving direct-response copy.  
 **Core thesis:** Copy is a substitute for a sales conversation. Its job is not to sound clever; its job is to identify the right reader, speak in their language, make a relevant promise, prove it, handle resistance, and ask for action.
 

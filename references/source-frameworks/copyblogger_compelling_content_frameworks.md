@@ -1,6 +1,6 @@
 # Copyblogger Create Compelling Content — Framework Summary
 
-**Source:** Copyblogger, *How to Create Compelling Content that Ranks Well in Search Engines*
+**Source:** Copyblogger, *How to Create Compelling Content That Ranks Well in Search Engines*.
 
 Reusable frameworks for audience-focused content, SEO copywriting, cornerstone resources, and link attraction.
 

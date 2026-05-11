@@ -1,6 +1,6 @@
 # A Technique for Producing Ideas — Framework Summary
 
-**Source:** James Webb Young, *A Technique for Producing Ideas*
+**Source:** James Webb Young, *A Technique for Producing Ideas*.
 
 Reusable idea-generation principles and copywriting research process.
 

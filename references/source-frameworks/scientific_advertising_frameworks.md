@@ -1,6 +1,6 @@
 # Scientific Advertising — Copywriting Frameworks
 
-**Book:** Claude C. Hopkins, *Scientific Advertising*  
+**Source:** Claude C. Hopkins, *Scientific Advertising*.
 **Focus:** reusable public principles for measurable, service-led advertising.
 
 ## Core thesis

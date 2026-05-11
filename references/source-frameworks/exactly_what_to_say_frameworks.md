@@ -1,6 +1,6 @@
 # Exactly What to Say — Framework Summary
 
-**Book by Phil M. Jones**
+**Source:** Phil M. Jones, *Exactly What to Say*.
 
 A practical guide to language patterns that lower resistance, clarify value, and help a reader or prospect take the next step. Use these as prompts, not scripts. The line must still sound natural in context.
 

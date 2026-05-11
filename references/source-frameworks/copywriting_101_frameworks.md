@@ -1,6 +1,6 @@
 # Copywriting 101 — Framework Notes
 
-**Source:** Brian Clark / Copyblogger, *Copywriting 101: How to Craft Compelling Copy*  
+**Source:** Brian Clark / Copyblogger, *Copywriting 101: How to Craft Compelling Copy*.
 **Use for:** foundational direct-response structure, headline writing, benefits extraction, offer framing, and conversion-page diagnostics.
 
 ## Core premise

@@ -1,6 +1,6 @@
 # You Are a Badass — Copy Pass Frameworks
 
-Source: Jen Sincero, *You Are a Badass*.
+**Source:** Jen Sincero, *You Are a Badass*.
 
 Purpose: clean, general-purpose Copy Pass notes. Focus on identity change, belief, fear, decision, money beliefs, action, urgency, and motivational copy patterns. These are frameworks and observations, not extracted prose.
 

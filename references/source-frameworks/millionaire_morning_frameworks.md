@@ -1,6 +1,6 @@
 # The Millionaire Morning — Copy Pass Frameworks
 
-Source: `millionaire_morning.txt` by Lewis Howes. Cleaned for Copy Pass use: motivation-to-action, discipline, goals, identity, habits, urgency, routine, future-self framing, and persuasive copy angles.
+**Source:** Lewis Howes, *The Millionaire Morning*.
 
 ## Core Thesis
 

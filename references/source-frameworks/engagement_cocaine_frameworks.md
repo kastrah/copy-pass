@@ -1,6 +1,6 @@
 # Engagement Is the New Cocaine — Copywriting & Persuasion Framework Notes
 
-**Source focus:** social writing, especially Twitter/X-style short-form persuasion.
+**Source:** *Engagement Is the New Cocaine*.
 
 ## Core usable idea
 Social growth comes from writing that earns **hard engagement**: shares, quote-shares, follows, replies with substance, and clicks. Impressions and likes are weaker signals. The copy must deliver enough value, emotion, identity, or tension that people feel compelled to pass it on.
