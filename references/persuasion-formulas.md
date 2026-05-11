@@ -1,64 +1,53 @@
 # Persuasion Formulas
 
-## 1. AIDCA (Attention → Interest → Desire → Conviction → Action)
-**Source:** 100 (Idea 39), AS
-The classic. Works for any asset.
+## AIDA
 
-| Stage | BP Week 1 example |
+| Stage | General example |
 |---|---|
-| **Attention** | "One high reading doesn't mean what you think." |
-| **Interest** | "Here's why: stress, sleep, coffee, posture, even your cuff size can change the number." |
-| **Desire** | "Imagine knowing your BP is accurate every time you check." |
-| **Conviction** | "When you check properly and track the pattern, the number becomes useful, not scary." |
-| **Action** | "Save this guide for next time. Then set up refill reminders so you never count tablets." |
+| **Attention** | "Your trial users are dropping before they see the feature that sells the product." |
+| **Interest** | "The issue is usually not traffic. It's the first three minutes after signup." |
+| **Desire** | "Imagine knowing exactly which onboarding step loses the most users." |
+| **Action** | "Audit the first user journey before the next campaign goes live." |
 
-## 2. PAS (Problem → Agitate → Solve)
-**Source:** USL, 100
+## PAS
 
-| Step | BP example |
+| Step | General example |
 |---|---|
-| **Problem** | "One BP reading can scare you into making the wrong decision." |
-| **Agitate** | "You stop medication. You rush to a hospital. Or worse, you ignore it entirely." |
-| **Solve** | "Check properly, track the pattern, and plan refills before the bottle is empty." |
+| **Problem** | "The launch plan looks complete, but no one owns the first follow-up." |
+| **Agitate** | "That gap turns into missed replies, delayed fixes, and a messy post-launch review." |
+| **Solve** | "Assign owner, deadline, proof link, and escalation path before launch day." |
 
-## 3. 5P Approach (Premise → Promise → Picture → Proof → Push)
-**Source:** CB5P (Copyblogger)
+## 4Ps: Picture, Promise, Prove, Push
 
-| Step | BP example |
+| Step | General example |
 |---|---|
-| **Premise** | "One BP reading needs context. Not dismissal. Not panic. Context." |
-| **Promise** | "After reading this, you'll know exactly how to check your BP properly." |
-| **Picture** | "See yourself sitting, feet flat, arm supported, writing the number down calmly." |
-| **Proof** | "Doctors confirm: posture, cuff size, and timing affect readings by up to 15 points." |
-| **Push** | "Check properly today. Track the pattern this week. Plan refills before you run out." |
+| **Picture** | "A customer signs up, gets one clear next step, and reaches value without waiting for support." |
+| **Promise** | "After this audit, you'll know which step to fix first." |
+| **Prove** | "Use activation, reply time, and completion rate to confirm the bottleneck." |
+| **Push** | "Run the audit before you spend more on acquisition." |
 
-## 4. Collier Six Essentials (letter/newsletter structure)
-**Source:** RC
+## Before–After–Bridge
 
-| Element | Newsletter example |
+| Step | General example |
 |---|---|
-| **Opening** | "Before you make up your mind about that BP number..." |
-| **Description** | "Famasi Care Specialists can help you understand your readings." |
-| **Motive** | "You get clarity without the panic." |
-| **Proof** | "Over 50,000 families use Famasi for recurring medication." |
-| **Snapper** | "Free delivery on first refill plan." |
-| **Close** | "Reply to this email if a reading confused you this week." |
+| **Before** | "Updates are scattered across chat, docs, and someone's memory." |
+| **After** | "Every project has one visible source of truth." |
+| **Bridge** | "Create a status page with owner, deadline, blocker, and next action." |
 
-## 5. Sugarman's Escalator
-**Source:** CW101
-Every element's only job is to get the next element read.
-- Headline → first sentence
-- First sentence → second sentence
-- Second sentence → CTA
-- CTA → action
-Nothing exists for itself. If a line doesn't pull the reader forward, cut it.
+## Problem–Promise–Proof–Proposal
 
-## 6. FAB (Features → Advantages → Benefits)
-**Source:** 100 (Idea 40), CW101
-| Level | BP example |
+| Step | General example |
 |---|---|
-| **Feature** | "Famasi connects to 1,000+ pharmacies." |
-| **Advantage** | "You can compare prices and find your medication faster." |
-| **Benefit** | "You never waste a Saturday running around looking for meds that may be out of stock." |
+| **Problem** | "Your team is not slow. The handoffs are unclear." |
+| **Promise** | "A simple workflow map will show where work stalls." |
+| **Proof** | "Compare cycle time before and after assigning owners to each handoff." |
+| **Proposal** | "Map one workflow this week and fix the highest-friction step first." |
 
-*Rule: Always push to the Benefit level. Stop at Feature or Advantage = weak copy.*
+## Benefit ladder
+
+| Level | General example |
+|---|---|
+| **Feature** | "Automated reminders." |
+| **Functional benefit** | "Tasks do not depend on memory." |
+| **Emotional benefit** | "The team stops feeling behind before the week starts." |
+| **Identity benefit** | "You become the operator who sees problems early." |

@@ -1,31 +1,31 @@
 # Objection Handling
 
-Common objections in healthcare/pharmacy marketing and pre-emptive responses.
+Common objections across marketing, product, sales, service, and operational copy.
 
-## Common Objections + Pre-emptive Responses
+## Common objections + pre-emptive responses
 
 | Objection | Pre-empt in copy | Source |
 |---|---|---|
-| "Online medicine isn't real/ safe" | "Every Famasi order is pharmacy-verified, NAFDAC-tracked, and sealed before dispatch." | CW (Inoculation Theory) |
-| "It's cheaper at my local pharmacy" | Reframe: "Counterfeit drugs cost more in hospital bills. Genuine meds save you from expensive complications." | CW (Belief Re-ranking) |
-| "I don't need to check my BP regularly" | "One reading tells you nothing. The pattern tells you everything. You need regular context, not occasional panic." | 50 (Idea 25) |
-| "I feel fine, so my BP must be fine" | "High BP has no symptoms. 70% of people with it don't know. Feeling fine is not evidence." | RA (USP: this is the real enemy) |
-| "I don't want to commit to auto-refill" | "Set it up once. Skip or cancel anytime. It's a safety net, not a contract." | CA (lower risk threshold) |
-| "My doctor didn't tell me to track" | "Most doctors wish their patients tracked between visits. It gives them better data to treat you." | EWS (Most people don't know...) |
-| "I can't afford another subscription" | "It costs nothing to set up. You only pay for medication when it ships. The refill reminder alone is free." | RC (Impulse: lower first ask) |
+| "I don't trust this yet" | "Here's exactly how it works, what happens first, and what you can verify before committing." | CW (Inoculation Theory) |
+| "This sounds expensive" | Reframe: "The bigger cost is the repeated manual workaround, missed handoff, or avoidable error." | CW (Belief Re-ranking) |
+| "We already have a tool/process for this" | "Keep what already works. This fixes the part your current setup still leaves manual." | 50 (Idea 25) |
+| "I don't have time to switch" | "Start with one workflow. No migration, no rebuild, no full-team retraining." | CA (lower risk threshold) |
+| "This feels like extra work" | "It removes the follow-ups you're already doing by hand." | EWS (reframe) |
+| "I'm not the decision-maker" | "Use this one-page summary to show the cost, risk, and next step clearly." | RC (lower first ask) |
+| "What if it doesn't work for us?" | "Test it on one project before changing the full workflow." | SA (specific proof path) |
 
-## How to Pre-Empt (Inoculation Theory — CW)
+## How to pre-empt (Inoculation Theory — CW)
 1. Warn the reader: "You might be thinking..."
-2. State their objection fairly: "Some people say online pharmacies are risky"
-3. Reframe: "Here's why the real risk is the opposite..."
-4. Install your defense: "We publish our NAFDAC numbers. Show me a local pharmacy that does that."
+2. State their objection fairly: "Some teams already have a process for this"
+3. Reframe: "Here's why the real issue is the gap between tools"
+4. Install your defence: "Start with one workflow and measure the before/after"
 
-## Objection-handling in healthcare (ethical rule, from SA)
+## Ethical rule
 Never dismiss a valid concern. Acknowledge, then redirect.
-- ✅ "It's smart to be cautious about where you buy medication. That's why every Famasi order is..."
-- ❌ "Don't worry, all our medications are real"
+- ✅ "It's reasonable to be cautious before changing a workflow. Start with one low-risk process and compare the result."
+- ❌ "Don't worry, this works for everyone"
 
-## The "Correction" Opener (EWS)
-Use when someone holds a wrong belief:
+## The correction opener (EWS)
+Use when the reader holds a wrong or incomplete belief:
 > "Before you make your mind up about [X], here's what most people don't realise..."
 > "If I can show you that [objection] isn't the whole story, would that be worth a look?"

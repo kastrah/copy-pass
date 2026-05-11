@@ -1,44 +1,53 @@
-# Principles — 10 Universal Copy Principles
+# Core Copy Principles
 
-Cross-book truths. These hold across all 19 books.
+## 1. One clear promise
+A strong piece of copy should be easy to summarise in one sentence.
 
-## 1. Specific beats general
-**Source:** SA (Hopkins), CA, RA, 100
-Don't say "fast." Say "2 hours." Don't say "many." Say "1,000+ pharmacies."
-> "Generalities don't sell." — Hopkins
+- Weak: "We help teams collaborate, automate, and grow better."
+- Strong: "See which customer handoffs are stuck before they cost you the renewal."
 
-## 2. Sell the benefit of the benefit
-**Source:** CW (Means-End Chain), RC, SA
-People don't buy medicine delivery. They buy peace of mind. Keep asking "and that means what for them?" until you reach the real outcome.
+## 2. Specific beats impressive
+Specific language creates belief. Big language creates suspicion.
 
-## 3. One USP per campaign
-**Source:** RA (Reeves), CB5P
-Run one proposition aggressively. Change the execution, not the promise. For May: "One BP reading needs context."
+- Weak: "Transform your workflow."
+- Strong: "Turn every launch task into an owner, deadline, and proof link."
 
-## 4. Emotion compels, logic justifies
-**Source:** RC, EC, CW
-The intellect convinces. The emotions compel action. Open with feeling, back with facts.
+## 3. Reader-first, not product-first
+Start from what the reader is trying to do, avoid, fix, prove, or protect.
 
-## 5. The reader is the hero
-**Source:** 100 (Idea 1), RC, SOS
-Copy that talks about the brand loses. Copy that talks about the reader wins. Every sentence should pass: "does this serve the reader or us?"
+- Product-first: "Our platform has automated reminders."
+- Reader-first: "No one has to remember the follow-up manually."
 
-## 6. Specific claim + proof
-**Source:** SA, CA, CW
-Every substantive claim needs evidence. Evidence = testimonial, data, demonstration, or guarantee.
+## 4. Change the execution, not the promise
+A campaign or content pillar needs one central promise. Each platform should express it differently, not invent a new message.
 
-## 7. Test before scale
-**Source:** SA, CA, RA
-Test one variable at a time. Small sample, then scale the winner.
+- Core promise: "Know what needs attention first."
+- Email: Explain the workflow.
+- Social: Show the pain moment.
+- Landing page: Prove the mechanism.
+- Sales deck: Handle the objections.
 
-## 8. Products compete against indifference, not each other
-**Source:** AW (Schwartz)
-Your copy competes with the reader's existing desires (food, family, sleep, Netflix), not with rival pharmacies.
+## 5. Benefits need a mechanism
+A benefit is more believable when the reader can see how it happens.
 
-## 9. Pattern builds brands; individual pieces build response
-**Source:** EC, RA
-Consistent campaign platform (May BP theme) with fresh executions beats changing the message every week.
+- Weak: "Save time every week."
+- Strong: "Every task gets an owner and due date before the Monday review starts."
 
-## 10. Ideas are combinations of old elements
-**Source:** TFPI (Young)
-Never start from zero. Combine existing elements in new ways. New entry point + old proposition = new piece.
+## 6. Remove fake sophistication
+If a phrase sounds like a strategist wrote it for another strategist, rewrite it for the person doing the work.
+
+- Weak: "Unlock operational excellence at scale."
+- Strong: "Stop chasing status updates across three channels."
+
+## 7. Proof before pressure
+Do not ask for a high-commitment action before the copy has created enough belief.
+
+- Low belief → ask for a small next step.
+- Strong proof → ask for the main conversion.
+
+## 8. One CTA
+Every extra CTA weakens the main action unless it clearly supports it.
+
+- Primary: Book a demo.
+- Secondary: Read the case study.
+- Bad: Book a demo, download the report, join the webinar, follow us, share this.

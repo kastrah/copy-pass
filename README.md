@@ -6,6 +6,12 @@ Use it after the first draft and before final humanisation. The skill does not t
 
 Best paired with [Humaniser](https://github.com/kastrah/humaniser), which should run after Copy Pass to remove AI tells and make the final copy sound more human.
 
+## Source material
+
+Copy Pass condenses reusable frameworks from 19 public marketing, advertising, copywriting, argumentation, and behaviour-change books/playbooks. See `references/index.md` for the full source list and `references/source-frameworks/` for the extracted framework notes.
+
+The public version deliberately avoids private local notes, client-specific paths, and campaign-specific examples so it can be reused across different products, industries, and workflows.
+
 ## What it helps with
 
 - Weak hooks that do not earn attention

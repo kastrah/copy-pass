@@ -1,54 +1,53 @@
 # CTA Framework
 
-## The Big Rule (from all books)
+## The big rule
 **One CTA per asset. One specific action. One specific outcome.**
 
-Don't say "find, order, refill with ease" (features). Say what changes for them (benefit).
+Don't say "discover, optimise, and grow with ease". Say what changes for the reader.
 
-## CTA Templates by Platform
+## CTA templates by platform
 
 ### X / Short-form
 - Short. 1 line max.
-- **Template:** "[Outcome] so [what changes]."
-- *Example:* "Set up BP refill reminders so one number never turns into a full crisis."
-- **Source:** SA (Specific Claim) + CW (Means-End Chain)
+- **Template:** "[Action] so [specific outcome]."
+- *Example:* "Fix the first signup email so new users know exactly what to do next."
 
 ### LinkedIn
-- Sentence-length. Lead with the emotional payoff.
-- **Template:** "That's the kind of [thing] [brand] exists for — so [the reader doesn't have to carry that burden]."
-- *Example:* "That's the kind of routine Famasi exists for — so the monthly pharmacy run stops being one more thing you carry alone."
-- **Source:** RC (Love + Duty motives blend)
+- Sentence-length. Lead with the operational or emotional payoff.
+- **Template:** "That's the kind of [system/support] [audience] needs — so [old burden] stops being manual."
+- *Example:* "That's the kind of reporting system small teams need — so Monday planning stops becoming a guessing game."
 
 ### Newsletter
 - 2-3 sentences. Explain the mechanism, not just the outcome.
 - **Template:** "[Action] once, and [outcome happens automatically]. No need to [old painful behaviour]."
-- *Example:* "Set it up once and the bottle arrives before it runs out. No more counting tablets or last-minute pharmacy runs."
-- **Source:** SA (Tell full story) + 100 (Idea 18 — long copy works here)
+- *Example:* "Set the review cadence once, and every campaign has a clear owner before launch. No more chasing updates in three channels."
 
-### Carousel/Instagram
-- One short line. The CTA feels like an afterthought, not the point.
+### Carousel / Instagram
+- One short line. The CTA should feel like the natural next step.
 - **Template:** "Set up [X] once, and [Y] stops being your problem."
-- *Example:* "Set up home delivery once, and the monthly BP refill stops being your problem."
-- **Source:** 100 (KISS principle) + CB
+- *Example:* "Set up the checklist once, and pre-launch QA stops living in someone's memory."
 
-### Reel
-- First-person POV. Real outcome, real person.
-- **Template:** "[Brand] does [specific thing] so I [specific change in behaviour]."
-- *Example:* "Famasi sends refill reminders so I never have to count tablets again."
-- **Source:** EWS (How would you feel if...) + CV (Identity shift)
+### Reel / Short video
+- First-person or direct POV. Real outcome, real person.
+- **Template:** "[Tool/process] does [specific thing] so I [specific change in behaviour]."
+- *Example:* "This dashboard shows stalled leads first, so I stop opening five tabs before every sales review."
 
 ## Don't templates
-- ❌ "Find, order, and refill with ease across 1000+ pharmacies" — feature list, not outcome
-- ❌ "Sign up today and take control" — generic, no specific promise
-- ❌ "Learn more" — says nothing
+- ❌ "Learn more" — says nothing.
+- ❌ "Get started today" — generic unless the surrounding copy carries the whole promise.
+- ❌ "Discover a better way to grow" — vague category language.
+- ❌ Multiple equal CTAs competing for attention.
 
 ## Do templates
 - ✅ "Set up [X] once and never [old problem] again"
-- ✅ "[Brand] handles [pain point] so you can [desired state]"
+- ✅ "[Product/process] handles [pain point] so you can [desired state]"
 - ✅ "One [action] means [specific outcome]"
+- ✅ "Start with [small action]. You'll know [specific thing] in [timeframe]."
 
-## Urgency add-ons (use sparingly)
-From SOS (Cardone) + CA (Caples):
-- "First [number] orders get [bonus]"
-- "This week only"
-- Only use when the deadline is real. Fake urgency destroys trust.
+## Urgency add-ons
+Use only when the deadline or constraint is real.
+- "First [number] teams get [bonus]"
+- "Available until [date]"
+- "Review before [launch/event/deadline]"
+
+Fake urgency destroys trust.

@@ -1,7 +1,7 @@
-# Copy Pass — Famasi Content Workflow
+# Copy Pass — Public Copywriting Workflow
 
 ## What this is
-A condensed playbook from 19 marketing/copywriting books, structured for use during content planning, drafting, and humaniser review. Not reading material. Reference material.
+A condensed playbook from marketing and copywriting books, structured for content planning, drafting, and humaniser review. Not reading material. Reference material.
 
 ## How it fits the workflow
 
@@ -15,9 +15,10 @@ Newsroom Research → Content Planning → Draft → Copy Pass → Humaniser Rev
 1. Load `persuasion-formulas.md` — pick a structure before drafting
 2. Load `headline-hooks-openers.md` — build your entry point
 3. Draft the assets
-4. Load `humaniser` skill — clean AI tells
-5. Load `review-checklist.md` — final copy principles pass
-6. Publish
+4. Run `review-checklist.md` — Copy Pass principles and persuasion check
+5. Apply fixes
+6. Run `humaniser` — clean AI tells after the persuasion pass
+7. Publish
 
 ## File map
 
@@ -32,37 +33,32 @@ Newsroom Research → Content Planning → Draft → Copy Pass → Humaniser Rev
 | `social-platform-guide.md` | Per-channel planning | X vs LinkedIn vs Email vs Instagram rules |
 | `review-checklist.md` | Post-humaniser | 10-point copy principles check before publish |
 
-## Source books indexed
+## Source books condensed into this skill
 
-| Short code | Full title |
-|---|---|
-| CW | Cashvertising (Whitman) |
-| SA | Scientific Advertising (Hopkins) |
-| RA | Reality in Advertising (Reeves) |
-| TFPI | A Technique for Producing Ideas (Young) |
-| EWS | Exactly What to Say (Jones) |
-| CB5P | Copyblogger 5P Approach |
-| CBCC | Copyblogger Compelling Content |
-| RC | Robert Collier Letter Book |
-| USL | Ultimate Sales Letter (Kennedy) |
-| 100 | 100 Great Copywriting Ideas (Maslen) |
-| CA | Tested Advertising Methods / Caples |
-| AS | The Advertising Solution (Kurtz/Simpson) |
-| CW101 | Copywriting 101 (Copyblogger) |
-| ENC | Engagement is the New Cocaine |
-| SOS | Sell Or Be Sold (Cardone) |
-| HWE | How to Win Every Argument (Pirie) |
-| EC | The Effectiveness Code (Hurman) |
-| YB | You Are a Badass (Sincero) |
-| MM | The Millionaire Morning (Howes) |
+The public skill is condensed from the books and public playbooks below. Full extracted framework notes live in `references/source-frameworks/`.
 
-## NLP Database (external, cross-referenced)
+| Short code | Full title | Framework file |
+|---|---|---|
+| 100 | 100 Great Copywriting Ideas — Andy Maslen | `source-frameworks/100_great_ideas_frameworks.md` |
+| AS | The Advertising Solution — Craig Simpson and Brian Kurtz | `source-frameworks/advertising_solution_frameworks.md` |
+| CA | Tested Advertising Methods — John Caples | `source-frameworks/caples_tested_methods_frameworks.md` |
+| CW101 | Copywriting 101 — Copyblogger | `source-frameworks/copywriting_101_frameworks.md` |
+| EC | The Effectiveness Code — James Hurman | `source-frameworks/effectiveness_code_frameworks.md` |
+| ENC | Engagement is the New Cocaine | `source-frameworks/engagement_cocaine_frameworks.md` |
+| EWS | Exactly What to Say — Phil M. Jones | `source-frameworks/exactly_what_to_say_frameworks.md` |
+| MM | The Millionaire Morning — Lewis Howes | `source-frameworks/millionaire_morning_frameworks.md` |
+| SOS | Sell or Be Sold — Grant Cardone | `source-frameworks/sell_or_be_sold_frameworks.md` |
+| HWE | How to Win Every Argument — Madsen Pirie | `source-frameworks/win_every_argument_frameworks.md` |
+| YB | You Are a Badass — Jen Sincero | `source-frameworks/you_are_a_badass_frameworks.md` |
+| TFPI | A Technique for Producing Ideas — James Webb Young | `source-frameworks/tfpi_frameworks.md` |
+| CW | Cashvertising — Drew Eric Whitman | `source-frameworks/cashvertising_frameworks.md` |
+| CB5P | Copyblogger 5P Approach to Copy That Crushes It | `source-frameworks/copyblogger_5p_frameworks.md` |
+| CBCC | Copyblogger: Create Compelling Content That Ranks Well | `source-frameworks/copyblogger_compelling_content_frameworks.md` |
+| RC | The Robert Collier Letter Book — Robert Collier | `source-frameworks/robert_collier_letter_book_frameworks.md` |
+| USL | The Ultimate Sales Letter — Dan S. Kennedy | `source-frameworks/ultimate_sales_letter_frameworks.md` |
+| SA | Scientific Advertising — Claude C. Hopkins | `source-frameworks/scientific_advertising_frameworks.md` |
+| RA | Reality in Advertising — Rosser Reeves | `source-frameworks/reality_in_advertising_frameworks.md` |
 
-| File | Content |
-|---|---|
-| `nlp-marketing-mastery.md` | Nikki Roush: Toward/Away, rapport, language patterns, buying signals |
-| `nlp-advanced-sales-mastery.md` | Jason Fladlien: frame control, compulsion model, confusion, presuppositions |
-| `nlp-sales-techniques.md` | Jason Fladlien: lean into failure, compulsion model |
+## Public-use note
 
-Location: `/root/life/areas/people/kastrah/learning/`
-Stack with: `triggers-and-motives.md` for NLP + direct response combo
+This repository should not depend on private local files, client-specific context, or one campaign's examples. Examples are intentionally general so the skill can be reused across products, campaigns, industries, and content formats.
