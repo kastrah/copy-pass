@@ -8,7 +8,7 @@ Best paired with [Humaniser](https://github.com/kastrah/humaniser), which should
 
 ## Source material
 
-Copy Pass condenses reusable frameworks from 19 public marketing, advertising, copywriting, argumentation, and behaviour-change books/playbooks. See `references/index.md` for the full source list and `references/source-frameworks/` for the extracted framework notes.
+Copy Pass condenses reusable frameworks from 18 marketing, advertising, copywriting, argumentation, and behaviour-change books/playbooks. See `references/index.md` for the full source list and `references/source-frameworks/` for the extracted framework notes.
 
 
 ## What it helps with
