@@ -50,6 +50,7 @@ The skill is condensed from the books and playbooks below. Full extracted framew
 | SOS | Sell or Be Sold — Grant Cardone | `source-frameworks/sell_or_be_sold_frameworks.md` |
 | HWE | How to Win Every Argument — Madsen Pirie | `source-frameworks/win_every_argument_frameworks.md` |
 | TFPI | A Technique for Producing Ideas — James Webb Young | `source-frameworks/tfpi_frameworks.md` |
+| YB | You Are a Badass — Jen Sincero | `source-frameworks/you_are_a_badass_frameworks.md` |
 | CW | Cashvertising — Drew Eric Whitman | `source-frameworks/cashvertising_frameworks.md` |
 | CB5P | Copyblogger 5P Approach to Copy That Crushes It | `source-frameworks/copyblogger_5p_frameworks.md` |
 | CBCC | Copyblogger: Create Compelling Content That Ranks Well | `source-frameworks/copyblogger_compelling_content_frameworks.md` |
