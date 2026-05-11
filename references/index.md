@@ -35,7 +35,7 @@ Newsroom Research → Content Planning → Draft → Copy Pass → Humaniser Rev
 
 ## Source books condensed into this skill
 
-The public skill is condensed from the books and public playbooks below. Full extracted framework notes live in `references/source-frameworks/`.
+The skill is condensed from the books and playbooks below. Full extracted framework notes live in `references/source-frameworks/`.
 
 | Short code | Full title | Framework file |
 |---|---|---|
@@ -58,7 +58,3 @@ The public skill is condensed from the books and public playbooks below. Full ex
 | USL | The Ultimate Sales Letter — Dan S. Kennedy | `source-frameworks/ultimate_sales_letter_frameworks.md` |
 | SA | Scientific Advertising — Claude C. Hopkins | `source-frameworks/scientific_advertising_frameworks.md` |
 | RA | Reality in Advertising — Rosser Reeves | `source-frameworks/reality_in_advertising_frameworks.md` |
-
-## Public-use note
-
-This repository should not depend on private local files, client-specific context, or one campaign's examples. Examples are intentionally general so the skill can be reused across products, campaigns, industries, and content formats.

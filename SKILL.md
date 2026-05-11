@@ -3,8 +3,7 @@ name: copy-pass
 description: >
   Use when reviewing marketing, product, campaign, landing page, email, SMS, ad,
   or social copy before senior writer review. Strengthens persuasion, hooks, CTAs,
-  objection handling, emotional triggers, platform fit, and message clarity. Public,
-  general-purpose version with no dependency on private local notes or client-specific examples. Run
+  objection handling, emotional triggers, platform fit, and message clarity. Run
   after drafting and before Humaniser. Best paired with Humaniser: https://github.com/kastrah/humaniser
 version: 1.0.0
 author: Kastrah
@@ -21,8 +20,7 @@ metadata:
 
 ## Source scope
 
-Copy Pass is condensed from public marketing, advertising, copywriting, argumentation, and behaviour-change books/playbooks listed in `references/index.md`. Full extracted framework notes live in `references/source-frameworks/`. Do not require private paths, private NLP notes, or current-client campaign context to use this skill.
-
+Copy Pass is condensed from marketing, advertising, copywriting, argumentation, and behaviour-change books/playbooks listed in `references/index.md`. Full extracted framework notes live in `references/source-frameworks/`.
 
 Copy Pass is a pre-senior-writer review skill. Use it to make a draft more persuasive, specific, and commercially useful before a senior writer reviews it.
 
