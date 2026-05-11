@@ -1,5 +1,5 @@
 ---
-name: copy-reference
+name: copy-pass
 description: >
   Use when reviewing marketing, product, campaign, landing page, email, SMS, ad,
   or social copy before senior writer review. Strengthens persuasion, hooks, CTAs,
@@ -14,11 +14,11 @@ metadata:
     related_skills: [humaniser]
 ---
 
-# Copy Reference
+# Copy Pass
 
 ## Overview
 
-Copy Reference is a pre-senior-writer review skill. Use it to make a draft more persuasive, specific, and commercially useful before a senior writer reviews it.
+Copy Pass is a pre-senior-writer review skill. Use it to make a draft more persuasive, specific, and commercially useful before a senior writer reviews it.
 
 This skill is not a grammar pass. It is not a generic rewrite pass. It checks whether the copy gives the reader a clear reason to care, believe, and act.
 
@@ -29,16 +29,16 @@ The output should improve the copy while preserving the underlying strategy. Do 
 Run this sequence:
 
 ```text
-Research → Draft → Copy Reference → Humaniser → Senior writer review → Publish
+Research → Draft → Copy Pass → Humaniser → Senior writer review → Publish
 ```
 
-Copy Reference must run before Humaniser.
+Copy Pass must run before Humaniser.
 
-Why: Copy Reference may add structure, urgency, objection handling, or CTA pressure. Those edits can introduce patterns that sound like AI writing. Humaniser should run after the persuasion work so the final draft sounds natural.
+Why: Copy Pass may add structure, urgency, objection handling, or CTA pressure. Those edits can introduce patterns that sound like AI writing. Humaniser should run after the persuasion work so the final draft sounds natural.
 
 ## When to use this skill
 
-Use Copy Reference when the user asks to:
+Use Copy Pass when the user asks to:
 
 - review copy before a senior writer sees it
 - improve landing page copy
@@ -209,7 +209,7 @@ Before handing off to Humaniser, confirm:
 
 ## Common pitfalls
 
-1. Running Humaniser first. That makes the draft cleaner before the persuasion work, then Copy Reference can reintroduce AI-sounding patterns.
+1. Running Humaniser first. That makes the draft cleaner before the persuasion work, then Copy Pass can reintroduce AI-sounding patterns.
 2. Treating every draft like a landing page. A WhatsApp message, SMS, social post, and banner need different pressure and structure.
 3. Adding persuasion by adding more words. Often the stronger edit is shorter.
 4. Inventing proof. If the claim needs evidence and none is available, flag it.
@@ -231,6 +231,6 @@ Before returning the final answer:
 
 ## Pair with Humaniser
 
-Copy Reference strengthens the message. Humaniser cleans the voice.
+Copy Pass strengthens the message. Humaniser cleans the voice.
 
 After this skill improves the hook, structure, CTA, and persuasion logic, run [Humaniser](https://github.com/kastrah/humaniser) to remove AI tells, smooth the rhythm, and make the final draft sound like a person wrote it.

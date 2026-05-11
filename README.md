@@ -1,10 +1,10 @@
-# Copy Reference
+# Copy Pass
 
-Copy Reference is a senior-writer review skill for improving marketing and product copy before it reaches a final human editor. It gives an AI agent a structured way to check whether a draft is clear, persuasive, specific, and ready for a senior writer to review.
+Copy Pass is a senior-writer review skill for improving marketing and product copy before it reaches a final human editor. It gives an AI agent a structured way to check whether a draft is clear, persuasive, specific, and ready for a senior writer to review.
 
 Use it after the first draft and before final humanisation. The skill does not try to make copy sound more natural. Its job is to strengthen the message: the promise, hook, structure, objection handling, CTA, emotional trigger, and platform fit.
 
-Best paired with [Humaniser](https://github.com/kastrah/humaniser), which should run after Copy Reference to remove AI tells and make the final copy sound more human.
+Best paired with [Humaniser](https://github.com/kastrah/humaniser), which should run after Copy Pass to remove AI tells and make the final copy sound more human.
 
 ## What it helps with
 
@@ -19,17 +19,17 @@ Best paired with [Humaniser](https://github.com/kastrah/humaniser), which should
 ## Recommended workflow
 
 ```text
-Research → Draft → Copy Reference → Humaniser → Senior writer review → Publish
+Research → Draft → Copy Pass → Humaniser → Senior writer review → Publish
 ```
 
-Run Copy Reference before Humaniser. Copy Reference adds persuasion structure, and that can reintroduce patterns that sound like AI writing. Humaniser should clean the final draft after the persuasive edits are in place.
+Run Copy Pass before Humaniser. Copy Pass adds persuasion structure, and that can reintroduce patterns that sound like AI writing. Humaniser should clean the final draft after the persuasive edits are in place.
 
 ## Installation
 
 ### Claude Code
 
 ```bash
-git clone https://github.com/kastrah/copy-pass.git ~/.claude/skills/copy-reference
+git clone https://github.com/kastrah/copy-pass.git ~/.claude/skills/copy-pass
 ```
 
 ### OpenCode / Codex / other agents
@@ -38,16 +38,16 @@ Copy `SKILL.md` into your agent's skills directory, or paste the contents into y
 
 ## Usage
 
-Ask your agent to run Copy Reference on a draft:
+Ask your agent to run Copy Pass on a draft:
 
 ```text
-Run Copy Reference on this landing page copy before we send it to the senior writer.
+Run Copy Pass on this landing page copy before we send it to the senior writer.
 ```
 
 Or:
 
 ```text
-Review this campaign copy using Copy Reference. Strengthen the hook, CTA, objections, and emotional trigger, then give me the revised version.
+Review this campaign copy using Copy Pass. Strengthen the hook, CTA, objections, and emotional trigger, then give me the revised version.
 ```
 
 ## What the agent should return

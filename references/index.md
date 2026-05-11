@@ -1,4 +1,4 @@
-# Copy Reference — Famasi Content Workflow
+# Copy Pass — Famasi Content Workflow
 
 ## What this is
 A condensed playbook from 19 marketing/copywriting books, structured for use during content planning, drafting, and humaniser review. Not reading material. Reference material.
@@ -6,7 +6,7 @@ A condensed playbook from 19 marketing/copywriting books, structured for use dur
 ## How it fits the workflow
 
 ```
-Newsroom Research → Content Planning → Draft → Humaniser Review → Copy Reference Pass → Publish
+Newsroom Research → Content Planning → Draft → Copy Pass → Humaniser Review → Publish
                                                                ↑
                                                      Load these files before the pass
 ```
