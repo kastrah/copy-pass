@@ -1,355 +1,400 @@
-# You Are a Badass (Jen Sincero)
-Source: you_are_a_badass.txt
-
-- part, in any form or by any means, electronic or
-- PART 1:
-- CHAPTER 1: My Subconscious Made
-- CHAPTER 2: The G-Word
-- CHAPTER 3: Present as a Pigeon
-- CHAPTER 4: The Big Snooze
-- CHAPTER 5: Self-Perception Is a Zoo
-- PART 2:
-- CHAPTER 6: Love the One You Is
-- CHAPTER 7: I Know You Are But What
-- CHAPTER 8: What Are You Doing
-- CHAPTER 9: Loincloth Man
-- PART 3:
-- CHAPTER 10: Meditation 101
-- CHAPTER 11: Your Brain Is Your Bitch
-- CHAPTER 12: Lead with Your Crotch
-- CHAPTER 13: Give and Let Give
-- CHAPTER 14: Gratitude: The Gateway
-- CHAPTER 15: Forgive or Fester
-- CHAPTER 16: Loosen Your Bone,
-- PART 4:
-- CHAPTER 17: It’s So Easy Once You
-- CHAPTER 18: Procrastination,
-- CHAPTER 19: The Drama of
-- CHAPTER 20: Fear Is for Suckers
-- CHAPTER 21: Millions of Mirrors
-- CHAPTER 22: The Sweet Life
-- PART 5:
-- CHAPTER 23: The Almighty Decision
-- CHAPTER 24: Money, Your New Best
-- CHAPTER 25: Remember to Surrender
-- CHAPTER 26: Doing vs. Spewing
-- CHAPTER 27: Beam Me Up, Scotty
-- participated in a group ceremony where
-- PART
-- CHAPTER 1:
-- CHAPTER 2:
-- CHAPTER 3:
-- CHAPTER 4:
-- party your boss threw for you in the
-- CHAPTER 5:
-- PART
-- CHAPTER 6:
-- CHAPTER 7
-- CHAPTER 8:
-- CHAPTER 9:
-- PART
-- CHAPTER 10:
-- CHAPTER 11:
-- CHAPTER 12:
-- Partner up with someone who’s good at,
-- CHAPTER 13:
-- CHAPTER 14:
-- part of the conversation when a gesture
-- CHAPTER 15:
-- CHAPTER 16:
-- PART
-- CHAPTER 17:
-- particularly creative array of new
-- CHAPTER 18:
-- chapter of your book written by a certain
-- CHAPTER 19:
-- particular situation, read on:
-- CHAPTER 20:
-- part about how we’d have to crawl
-- part of our social conditioning that we
-- CHAPTER 21:
-- part of me that I was ashamed of. Hence,
-- CHAPTER 22:
-- PART
-- CHAPTER 23:
-- CHAPTER 24:
-- part of me was terrified to grow and part
-- CHAPTER 25:
-- party. They’re all excited about their big
-- party, and really believe they can, but
-- CHAPTER 26:
-- CHAPTER 27:
-- parts you don’t agree with (she’s like a
-
-## Key Frameworks & Techniques
-
---- (line 11) ---
-This book may not be reproduced in whole or in
-part, in any form or by any means, electronic or
-mechanical, including photocopying, recording, or
-by any information storage and retrieval system
-now known or hereafter invented, without written
-permission from the publisher.
-
-
---- (line 41) ---
-Visit us on the web!
-www.runningpress.com
-For my unfailingly sweet and supportive
-Dad and brother Stephen
-
-   And still, after all this time,
-   the Sun has never said to the Earth,
+# You Are a Badass — Copy Pass Frameworks
 
---- (line 57) ---
+Source: Jen Sincero, *You Are a Badass* (`/root/book_texts/you_are_a_badass.txt`)
 
-      PART 1:
-HOW YOU GOT THIS WAY
-CHAPTER 1: My Subconscious Made
-          Me Do It
+Purpose: clean, general-purpose Copy Pass notes. Focus on identity change, belief, fear, decision, money beliefs, action, urgency, and motivational copy patterns. These are frameworks and observations, not extracted prose.
 
-CHAPTER 2: The G-Word
+## Core Copy Thesis
 
---- (line 60) ---
-CHAPTER 1: My Subconscious Made
-          Me Do It
+Transformation copy works when it moves the reader from passive wanting into decisive self-recognition:
 
-CHAPTER 2: The G-Word
-CHAPTER 3: Present as a Pigeon
+- **Old identity:** “I want more, but I’m not the kind of person who can have it.”
+- **Catalyst:** desire becomes more painful to suppress than to pursue.
+- **Decision:** the reader stops negotiating and chooses a new standard.
+- **Evidence:** small acts, environments, habits, and investments begin matching the new identity.
+- **Action:** clarity comes through doing, not endless thinking.
+- **Urgency:** the cost of waiting is an unlived life.
 
-CHAPTER 4: The Big Snooze
+Copy implication: sell the reader on becoming the person who naturally takes the action, not merely on the action itself.
 
---- (line 61) ---
-          Me Do It
+---
 
-CHAPTER 2: The G-Word
-CHAPTER 3: Present as a Pigeon
+## 1. Wanting vs. Deciding
 
-CHAPTER 4: The Big Snooze
-CHAPTER 5: Self-Perception Is a Zoo
+### Source principle
+Sincero repeatedly separates casual desire from committed decision: wanting can remain theoretical; deciding requires full participation, discomfort, and changed behavior.
 
---- (line 63) ---
-CHAPTER 2: The G-Word
-CHAPTER 3: Present as a Pigeon
+### Copy framework
+Use when the audience is stuck in research, dreaming, “someday,” or self-help consumption.
 
-CHAPTER 4: The Big Snooze
-CHAPTER 5: Self-Perception Is a Zoo
+- Name the **soft desire:** “You’ve wanted this for years.”
+- Expose the **passivity:** “Wanting lets you stay exactly where you are.”
+- Define the **decision line:** “Deciding means you stop treating your old limits as instructions.”
+- Show the **visible proof:** investment, schedule, asking, publishing, applying, raising prices, changing habits.
+- Close with **now:** “You don’t need rock bottom. You need a decision.”
 
+### Copy prompts
+- “Where are you saying you want it, but behaving like it’s optional?”
+- “What would change today if the decision were already made?”
+- “What negotiation would disappear?”
+- “What would the decided version of you do next?”
 
+### Pattern
+**You don’t need more wanting. You need the moment where wanting turns into a non-negotiable decision.**
 
---- (line 64) ---
-CHAPTER 3: Present as a Pigeon
+---
 
-CHAPTER 4: The Big Snooze
-CHAPTER 5: Self-Perception Is a Zoo
+## 2. Identity Upgrade: Become the Person Who Can Have It
 
+### Source principle
+The book frames growth as identity expansion: stop being the person who takes what they can get; become the person who creates what they want.
 
+### Copy framework
+Use when selling transformation, premium offers, coaching, business growth, confidence, or lifestyle upgrades.
 
+- **Old self-image:** “I’m the person who struggles / settles / makes do.”
+- **Contradiction:** “But deep down, you know you’re capable of more.”
+- **Identity stretch:** “The goal is not just the result; it is becoming the person who can hold the result.”
+- **Behavioral proof:** new price, new room, new routine, new support, new level of visibility.
+- **New identity:** “I am someone who chooses, creates, receives, and follows through.”
 
---- (line 71) ---
-        PART 2:
-   HOW TO EMBRACE
-  YOUR INNER BADASS
-CHAPTER 6: Love the One You Is
+### Copy prompts
+- “Who do you have to become to make this normal?”
+- “What does your current environment say you believe is possible?”
+- “Where are you still playing at the level of the old story?”
+- “What would be different if this upgrade were not reckless, but accurate?”
 
-CHAPTER 7: I Know You Are But What
-          Am I?
+### Pattern
+**This is not about buying/doing/getting [thing]. It is about no longer being the person who settles for less than what they know they can create.**
 
---- (line 73) ---
-  YOUR INNER BADASS
-CHAPTER 6: Love the One You Is
+---
 
-CHAPTER 7: I Know You Are But What
-          Am I?
+## 3. Self-Belief Before Evidence
 
-CHAPTER 8: What Are You Doing
+### Source principle
+The book argues that the desired reality must be treated as more truthful than present appearances. The “how” often appears after commitment and aligned action.
 
---- (line 76) ---
-CHAPTER 7: I Know You Are But What
-          Am I?
+### Copy framework
+Use when readers demand certainty before acting.
 
-CHAPTER 8: What Are You Doing
-          Here?
-CHAPTER 9: Loincloth Man
-       PART 3:
+- Call out the trap: “You’re waiting for proof before you believe.”
+- Reframe belief: “Belief is not denial; it is choosing the future you are building over the evidence of your past.”
+- Separate **what** from **how:** know the desired result; stay open to unexpected paths.
+- Require action: belief must be paired with doing what is already available.
+- Normalize discomfort: the gap between evidence and vision feels irrational at first.
 
---- (line 78) ---
+### Copy prompts
+- “What if your current reality is old evidence, not final truth?”
+- “What do you know you want, even if you don’t yet know how?”
+- “What opportunity would you notice if you stopped arguing for limitation?”
 
-CHAPTER 8: What Are You Doing
-          Here?
-CHAPTER 9: Loincloth Man
-       PART 3:
- HOW TO TAP INTO THE
-   MOTHERLODE
+### Pattern
+**Your job is not to know every step. Your job is to choose the destination, act on the next visible step, and stay available for the path to reveal itself.**
 
---- (line 82) ---
-       PART 3:
- HOW TO TAP INTO THE
-   MOTHERLODE
-CHAPTER 10: Meditation 101
-CHAPTER 11: Your Brain Is Your Bitch
+---
 
-CHAPTER 12: Lead with Your Crotch
+## 4. Fear as a Choice, Habit, and Signal
 
---- (line 83) ---
- HOW TO TAP INTO THE
-   MOTHERLODE
-CHAPTER 10: Meditation 101
-CHAPTER 11: Your Brain Is Your Bitch
+### Source principle
+Fear is treated as habitual future-projection. The feeling may be real, but the feared outcome is usually imagined. Freedom is positioned on the other side of fear.
 
-CHAPTER 12: Lead with Your Crotch
+### Copy framework
+Use when readers are afraid of visibility, investment, rejection, failure, change, or judgment.
 
+- **Identify the fear:** “What are you actually afraid will happen?”
+- **Bring it into the present:** “Is that happening right now, or is it a movie in your head?”
+- **Expose the hidden cost:** “What does avoiding this protect you from — and what does it cost you?”
+- **Flip the fear:** compare the pain of trying and failing to the pain of never trying.
+- **Reclaim choice:** “Fear may show up; it does not get to drive.”
 
---- (line 85) ---
-CHAPTER 10: Meditation 101
-CHAPTER 11: Your Brain Is Your Bitch
+### Copy prompts
+- “What is the feared outcome?”
+- “Then what? And then what?”
+- “Which is worse: the risk of looking foolish, or the certainty of staying stuck?”
+- “What would this fear look like from the future, after you succeeded?”
 
-CHAPTER 12: Lead with Your Crotch
+### Pattern
+**You can be afraid and still move. The question is not whether fear appears; the question is whether your faith in yourself is bigger than the fear.**
 
-CHAPTER 13: Give and Let Give
+---
 
+## 5. Future Rearview Reframe
 
---- (line 87) ---
+### Source principle
+Sincero suggests viewing present fears from a future victorious position. Challenges that feel huge now often become tiny in hindsight.
 
-CHAPTER 12: Lead with Your Crotch
+### Copy framework
+Use for urgency and courage-building.
 
-CHAPTER 13: Give and Let Give
+- Ask the reader to remember a past scary leap that is no longer scary.
+- Transfer the lesson to the current leap.
+- Shrink the fear with future hindsight.
+- Position action as the path to the future self’s relief.
 
-CHAPTER 14: Gratitude: The Gateway
-           Drug to Awesomeness
+### Copy prompts
+- “A year from now, what will you wish you had started today?”
+- “When this is handled, how small will today’s fear look?”
+- “What does your future self already know about this moment?”
 
---- (line 89) ---
+### Pattern
+**Someday this will be a story about the thing you were scared to do before everything changed. Act from that future now.**
 
-CHAPTER 13: Give and Let Give
+---
 
-CHAPTER 14: Gratitude: The Gateway
-           Drug to Awesomeness
-CHAPTER 15: Forgive or Fester
+## 6. The Cost of Staying the Same
 
+### Source principle
+The book creates urgency by contrasting the pain of change with the deeper pain of waking up to an unlived life.
 
---- (line 91) ---
+### Copy framework
+Use when readers over-focus on the risk of action.
 
-CHAPTER 14: Gratitude: The Gateway
-           Drug to Awesomeness
-CHAPTER 15: Forgive or Fester
+- Acknowledge action is uncomfortable.
+- Make inaction emotionally concrete: another year of the same money stress, same invisible work, same unfinished idea, same self-doubt.
+- Show that “safe” is not neutral; it has a cost.
+- Reframe action as the less painful path.
 
-CHAPTER 16: Loosen Your Bone,
-           Wilma
+### Copy prompts
+- “What will your life look like in 12 months if nothing changes?”
+- “What are you calling safe that is actually slowly costing you your aliveness?”
+- “What dream is becoming heavier the longer you postpone it?”
 
---- (line 93) ---
-           Drug to Awesomeness
-CHAPTER 15: Forgive or Fester
+### Pattern
+**Yes, change is uncomfortable. But so is staying in a life that keeps asking you to shrink.**
 
-CHAPTER 16: Loosen Your Bone,
-           Wilma
-        PART 4:
-   HOW TO GET OVER
+---
 
---- (line 98) ---
-        PART 4:
-   HOW TO GET OVER
-   YOUR B.S. ALREADY
-CHAPTER 17: It’s So Easy Once You
-           Figure Out It Isn’t Hard
+## 7. Reframing Limiting Beliefs
 
-CHAPTER 18: Procrastination,
+### Source principle
+Old beliefs are treated as learned stories, not facts. The reader is invited to examine, challenge, and replace them.
 
---- (line 101) ---
-CHAPTER 17: It’s So Easy Once You
-           Figure Out It Isn’t Hard
+### Copy framework
+Use for belief objection handling.
 
-CHAPTER 18: Procrastination,
-           Perfection, and a Polish
-           Beer Garden
+- **Belief:** “I can’t make money doing this.”
+- **Origin:** “Where did you learn that?”
+- **Evidence audit:** “Is it always true? Has the opposite ever happened?”
+- **Replacement truth:** “Money has come to me before; more can come again.”
+- **Repetition:** affirm, visualize, act from the new story until it becomes normal.
 
+### Copy prompts
+- “Is this true, or is it familiar?”
+- “Who benefits when you keep believing this?”
+- “What evidence exists that this belief is incomplete?”
+- “What new sentence would create better behavior?”
 
---- (line 105) ---
-           Perfection, and a Polish
-           Beer Garden
+### Pattern
+**The belief that feels like reality may simply be the story you have practiced the longest.**
 
-CHAPTER 19: The Drama of
-           Overwhelm
+---
 
-CHAPTER 20: Fear Is for Suckers
+## 8. Money Beliefs: From Lack to Abundance
 
---- (line 108) ---
-CHAPTER 19: The Drama of
-           Overwhelm
+### Source principle
+Money is positioned as a relationship, a tool, and an energy. Shame, resentment, poverty-pride, and “money equals greed” block action and receiving.
 
-CHAPTER 20: Fear Is for Suckers
+### Copy framework
+Use for pricing, selling, premium positioning, business coaching, financial transformation, and creator monetization.
 
-CHAPTER 21: Millions of Mirrors
-CHAPTER 22: The Sweet Life
+- Surface the conflicted relationship: wanting money while judging it.
+- Reframe money as neutral: greedy people do greedy things; money itself is a tool.
+- Link money to service: more resources can mean more contribution.
+- Replace lack language with abundance language.
+- Invite practical action: plan, ask, charge, invest, manage, sell.
 
---- (line 110) ---
+### Money belief reframes
+- “Wanting money makes me greedy” → “Money expands my ability to create, contribute, choose, and support.”
+- “I can’t afford it” → “How can I create, find, earn, or allocate the money?”
+- “People like me don’t make that much” → “My income can grow as my identity, skill, and courage grow.”
+- “Charging more is wrong” → “Charging with integrity lets me do better work and serve sustainably.”
+- “There isn’t enough” → “My earning does not take possibility away from others.”
 
-CHAPTER 20: Fear Is for Suckers
+### Copy prompts
+- “What do you secretly believe money says about you?”
+- “Where are you using nobility as a cover for fear?”
+- “If money were a relationship, how are you treating it?”
+- “What would you charge if you fully trusted the value of your work?”
 
-CHAPTER 21: Millions of Mirrors
-CHAPTER 22: The Sweet Life
+### Pattern
+**Making more money is not only about money. It is about what you believe is possible for you, what you are willing to receive, and who you become when you stop apologizing for wanting more.**
 
+---
 
+## 9. Action Beats Overthinking
 
---- (line 111) ---
-CHAPTER 20: Fear Is for Suckers
+### Source principle
+Answers reveal themselves through doing. Waiting for perfect clarity keeps people stuck; the first right step creates feedback.
 
-CHAPTER 21: Millions of Mirrors
-CHAPTER 22: The Sweet Life
+### Copy framework
+Use when the reader is researching, planning, comparing, or delaying.
 
+- Call out mental looping: pros/cons, what-ifs, endless conversations, “figuring it out.”
+- Shrink the required move: one right-feeling next step.
+- Emphasize feedback: action reveals information thinking cannot.
+- Add urgency: do it now, before the opportunity fades.
 
+### Copy prompts
+- “What is the next right step, not the perfect life plan?”
+- “What would you learn by doing that you cannot learn by thinking?”
+- “What invitation, class, conversation, post, pitch, or experiment keeps tugging at you?”
 
+### Pattern
+**You do not need the whole map. You need the first step that feels true — and the willingness to let action teach you the next one.**
 
---- (line 117) ---
+---
 
-       PART 5:
-HOW TO KICK SOME ASS
-CHAPTER 23: The Almighty Decision
+## 10. Decision Hygiene: Remove Negotiation
 
-CHAPTER 24: Money, Your New Best
-           Friend
+### Source principle
+Real decisions are “watertight.” If the reader keeps debating after deciding, excuses seep in.
 
---- (line 119) ---
-HOW TO KICK SOME ASS
-CHAPTER 23: The Almighty Decision
+### Copy framework
+Use for habit change, execution, sales conversion, commitment, and follow-through.
 
-CHAPTER 24: Money, Your New Best
-           Friend
+- Define the old identity as past tense.
+- Make the new behavior non-negotiable.
+- Remove daily debate.
+- Create implementation cues: schedule, deadline, environment, accountability.
+- Practice on small decisions to build the muscle.
 
-CHAPTER 25: Remember to Surrender
+### Copy prompts
+- “What are you still treating as up for debate?”
+- “What would be easier if you stopped renegotiating it every morning?”
+- “What phrase needs to leave your vocabulary?”
+- “What deadline forces the decision into reality?”
 
---- (line 122) ---
-CHAPTER 24: Money, Your New Best
-           Friend
+### Pattern
+**The decision is where the energy leak ends. Once it is made, your job is not to keep asking whether — it is to keep moving how.**
 
-CHAPTER 25: Remember to Surrender
+---
 
-CHAPTER 26: Doing vs. Spewing
+## 11. Environment as Belief Reinforcement
 
+### Source principle
+Sincero emphasizes upgrading the environment to support the identity and vision. Surroundings and peers either normalize limitation or expansion.
 
---- (line 124) ---
+### Copy framework
+Use for community, mastermind, workspace, coaching, and personal brand offers.
 
-CHAPTER 25: Remember to Surrender
+- Current environment mirrors current standards.
+- Low-belief peers make expansion feel delusional.
+- High-belief peers make bigger action feel normal.
+- Physical cues keep the desired future in view.
+- Changing environment proves seriousness.
 
-CHAPTER 26: Doing vs. Spewing
+### Copy prompts
+- “Who makes your current limits feel reasonable?”
+- “Who makes your next level feel normal?”
+- “What in your space keeps telling the old story?”
+- “What would you remove, upgrade, or add if you were serious?”
 
-CHAPTER 27: Beam Me Up, Scotty
-RESOURCES
+### Pattern
+**If you want a bigger life, stop building it inside an environment designed to keep you small.**
 
---- (line 126) ---
+---
 
-CHAPTER 26: Doing vs. Spewing
+## 12. Purpose and Gift Framing
 
-CHAPTER 27: Beam Me Up, Scotty
-RESOURCES
+### Source principle
+The book frames a calling as a gift meant to be given. Withholding it is positioned as waste, not humility.
 
-ACKNOWLEDGMENTS
+### Copy framework
+Use for creator, coach, expert, service provider, and mission-led offers.
 
---- (line 163) ---
-I could have really used some help
-around here. I mean, overall I was doing
-pretty well—I’d published a couple of
-books, had lots of great friends, a close
-family, an apartment, a car that ran, food,
-teeth, clothes, clean drinking water—
-compared to the majority of the planet,
+- Identify the gift or desire that keeps returning.
+- Reframe visibility/selling/action as generosity.
+- Contrast “tasteful candle” contribution with full-strength contribution.
+- Tie self-actualization to service.
 
+### Copy prompts
+- “What gift are you keeping wrapped?”
+- “Who loses when you keep playing small?”
+- “Where are you giving the watered-down version of what you are here to give?”
+
+### Pattern
+**Your gift is not proof that you are special so you can hide with it. It is proof that someone else is waiting to receive it.**
+
+---
+
+## 13. Motivational Voice Patterns
+
+### Pattern A: Loving confrontation
+Tone: direct, playful, irreverent, affectionate.
+
+Structure:
+- Call out the stuck behavior.
+- Make it funny enough to lower defensiveness.
+- Tell the deeper truth.
+- Invite immediate action.
+
+Example template:
+**You can keep polishing the plan until it becomes a historical artifact, or you can do the wildly advanced thing where you actually begin.**
+
+### Pattern B: Big contrast
+Structure:
+- Small, familiar life image.
+- Big, alive possibility.
+- Decision bridge.
+
+Example template:
+**You can keep refreshing your inbox hoping your life interrupts you, or you can become the person who sends the email, makes the ask, and opens the door.**
+
+### Pattern C: Fear flip
+Structure:
+- “I’m scared that if I do it…”
+- “What happens if you don’t?”
+- Inaction becomes the scarier option.
+
+Example template:
+**If you’re risking discomfort either way, choose the version that might also give you freedom.**
+
+### Pattern D: Identity proof
+Structure:
+- “I am not the kind of person who…”
+- New decision.
+- New behavior.
+
+Example template:
+**I don’t negotiate with the old story anymore. I am the kind of person who follows through.**
+
+### Pattern E: Permission plus demand
+Structure:
+- Validate desire.
+- Remove shame.
+- Require responsibility.
+
+Example template:
+**You are allowed to want more. You are also responsible for becoming the version of you who can create, hold, and share more.**
+
+---
+
+## 14. Copy Pass Application Checklist
+
+When applying these notes to sales copy, check whether the draft does the following:
+
+- Names the reader’s old identity without shaming them into paralysis.
+- Distinguishes wanting from deciding.
+- Makes the cost of inaction emotionally specific.
+- Reframes fear as future-projection, not truth.
+- Shows that self-belief must precede complete evidence.
+- Gives a concrete next action rather than abstract inspiration.
+- Connects money to integrity, contribution, choice, and identity.
+- Uses urgency without panic: “right now” as empowerment, not pressure.
+- Makes the new identity visible through behavior, environment, habits, and decisions.
+- Balances irreverent challenge with warmth and possibility.
+
+---
+
+## 15. High-Utility Lines to Adapt, Not Copy
+
+- Go from wanting the change to deciding the change.
+- The old story is familiar, not final.
+- Fear can ride along, but it does not get to choose the route.
+- The first step reveals more than another month of thinking.
+- The decision removes the daily negotiation.
+- Playing small does not protect anyone; it withholds what you could give.
+- Money is not the villain; your story about money may be the cage.
+- Your next level will require a version of you your current life has not met yet.
+- You do not need rock bottom to begin. You can choose now.
+- The life you want asks for proof of commitment before it gives proof of certainty.
