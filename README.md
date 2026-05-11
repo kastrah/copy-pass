@@ -29,7 +29,7 @@ Run Copy Reference before Humaniser. Copy Reference adds persuasion structure, a
 ### Claude Code
 
 ```bash
-git clone https://github.com/kastrah/copy-reference.git ~/.claude/skills/copy-reference
+git clone https://github.com/kastrah/copy-pass.git ~/.claude/skills/copy-reference
 ```
 
 ### OpenCode / Codex / other agents
