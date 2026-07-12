@@ -26,6 +26,8 @@ copy-pass is a pre-senior-writer review skill. Use it to make a draft more persu
 
 This skill is not a grammar pass. It is not a generic rewrite pass. It checks whether the copy gives the reader a clear reason to care, believe, and act.
 
+For platform-specific voice cleanup (LinkedIn, Twitter, Instagram, Carousel natural-language pass), run [humaniser](https://github.com/kastrah/humaniser) after copy-pass. humaniser includes platform playbooks for the final voice layer.
+
 The output should improve the copy while preserving the underlying strategy. Do not invent claims, offers, audiences, statistics, product features, or campaign mechanics that were not provided. If an important detail is missing, mark it as a senior-writer question instead of filling the gap with a guess.
 
 ## Correct workflow
