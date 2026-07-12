@@ -6,7 +6,7 @@ Use it after the first draft and before final humanisation. The skill does not t
 
 Best paired with [humaniser](https://github.com/kastrah/humaniser), which should run after copy-pass to remove AI tells and make the final copy sound more human.
 
-For message-level review (emails, SMS, WhatsApp, complaint responses), use [care-review](https://github.com/kastrah/care-review) instead. Though both should ideally exist in a workflow, copy-pass is for content while care-review is for messages to a specific person.
+The tools work on different layers, not different mediums. copy-pass strengthens hook, CTA, objections, and platform fit. care-review checks that the same message sounds conversational, not robotic. Both can apply to the same text.
 
 ## Source material
 
