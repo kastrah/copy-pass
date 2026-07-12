@@ -53,8 +53,6 @@ Run copy-pass before humaniser. copy-pass adds persuasion structure, and that ca
 
 ## Installation
 
-### Claude Code
-
 ```bash
 git clone https://github.com/kastrah/copy-pass.git ~/.claude/skills/copy-pass
 ```
