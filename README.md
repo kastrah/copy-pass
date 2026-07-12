@@ -33,21 +33,17 @@ This tool is part of a three-skill writing stack. Each tool does one job well.
 
 ### If you are on copy-pass but need something else
 
-- **Your copy sounds like AI wrote it** → use [humaniser](https://github.com/kastrah/humaniser)
-- **You are writing an email, SMS, WhatsApp message, or complaint response** → use [care-review](https://github.com/kastrah/care-review)
-- **You are writing a blog, landing page, or article** → stay here, then run [humaniser](https://github.com/kastrah/humaniser) after
+- **Your copy sounds like AI wrote it** → run [humaniser](https://github.com/kastrah/humaniser) after
+- **Your text needs a conversational check** → run [care-review](https://github.com/kastrah/care-review) after
+- **You only need persuasion work** → stay here, skip care-review and humaniser
 
 ## Recommended workflow
 
 ```text
-Content for a general audience:
-Research → Draft → copy-pass → humaniser → final review → publish
-
-Messages for a specific person:
-Draft → care-review → revise → send
+Draft → copy-pass → care-review → humaniser → publish / send
 ```
 
-Run copy-pass before humaniser. copy-pass adds persuasion structure, and that can reintroduce patterns that sound like AI writing. humaniser should clean the final draft after the persuasive edits are in place.
+Run copy-pass before humaniser. copy-pass adds persuasion structure, and that can reintroduce patterns that sound like AI writing. humaniser should clean the final draft after the persuasive edits are in place. care-review runs between them because persuasion edits can also make text sound less conversational.
 
 ## Installation
 
