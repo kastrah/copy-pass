@@ -1,16 +1,16 @@
-# Copy Pass
+# copy-pass
 
-Copy Pass is a senior-writer review skill for improving marketing and product copy before it reaches a final human editor. It gives an AI agent a structured way to check whether a draft is clear, persuasive, specific, and ready for a senior writer to review.
+copy-pass is a senior-writer review skill for improving marketing and product copy before it reaches a final human editor. It gives an AI agent a structured way to check whether a draft is clear, persuasive, specific, and ready for a senior writer to review.
 
 Use it after the first draft and before final humanisation. The skill does not try to make copy sound more natural. Its job is to strengthen the message: the promise, hook, structure, objection handling, CTA, emotional trigger, and platform fit.
 
-Best paired with [Humaniser](https://github.com/kastrah/humaniser), which should run after Copy Pass to remove AI tells and make the final copy sound more human.
+Best paired with [humaniser](https://github.com/kastrah/humaniser), which should run after copy-pass to remove AI tells and make the final copy sound more human.
 
-For message-level review (emails, SMS, WhatsApp, complaint responses), use [care-review](https://github.com/kastrah/care-review) instead. Copy Pass is for content; care-review is for messages to a specific person.
+For message-level review (emails, SMS, WhatsApp, complaint responses), use [care-review](https://github.com/kastrah/care-review) instead. copy-pass is for content; care-review is for messages to a specific person.
 
 ## Source material
 
-Copy Pass condenses reusable frameworks from 19 marketing, advertising, copywriting, argumentation, and behaviour-change books/playbooks. See `references/index.md` for the full source list and `references/source-frameworks/` for the extracted framework notes.
+copy-pass condenses reusable frameworks from 19 marketing, advertising, copywriting, argumentation, and behaviour-change books/playbooks. See `references/index.md` for the full source list and `references/source-frameworks/` for the extracted framework notes.
 
 
 ## What it helps with
@@ -29,27 +29,27 @@ This tool is part of a three-skill writing stack. Each tool does one job well.
 
 | Tool | What it does | When to use it |
 |------|-------------|----------------|
-| Copy Pass | Strengthens persuasion: hooks, CTAs, objections, emotional triggers, platform fit | Before a senior writer reviews copy. Not for final cleanup. |
-| [Humaniser](https://github.com/kastrah/humaniser) | Removes AI writing patterns and makes text sound natural | After copy pass. Final voice pass before publishing. |
+| copy-pass | Strengthens persuasion: hooks, CTAs, objections, emotional triggers, platform fit | Before a senior writer reviews copy. Not for final cleanup. |
 | [care-review](https://github.com/kastrah/care-review) | Checks whether a message is conversational, actionable, richer than asked, and ends with a reason to reply | Before any customer-facing message goes out. |
+| [humaniser](https://github.com/kastrah/humaniser) | Removes AI writing patterns and makes text sound natural | After copy pass. Final voice pass before publishing. |
 
 ### If you are on copy-pass but need something else
 
-- **Your copy sounds like AI wrote it** → use [Humaniser](https://github.com/kastrah/humaniser)
+- **Your copy sounds like AI wrote it** → use [humaniser](https://github.com/kastrah/humaniser)
 - **You are writing an email, SMS, WhatsApp message, or complaint response** → use [care-review](https://github.com/kastrah/care-review)
-- **You are writing a blog, landing page, or article** → stay here, then run [Humaniser](https://github.com/kastrah/humaniser) after
+- **You are writing a blog, landing page, or article** → stay here, then run [humaniser](https://github.com/kastrah/humaniser) after
 
 ## Recommended workflow
 
 ```text
 Content for a general audience:
-Research → Draft → Copy Pass → Humaniser → final review → publish
+Research → Draft → copy-pass → humaniser → final review → publish
 
 Messages for a specific person:
 Draft → care-review → revise → send
 ```
 
-Run Copy Pass before Humaniser. Copy Pass adds persuasion structure, and that can reintroduce patterns that sound like AI writing. Humaniser should clean the final draft after the persuasive edits are in place.
+Run copy-pass before humaniser. copy-pass adds persuasion structure, and that can reintroduce patterns that sound like AI writing. humaniser should clean the final draft after the persuasive edits are in place.
 
 ## Installation
 
@@ -65,16 +65,16 @@ Copy `SKILL.md` into your agent's skills directory, or paste the contents into y
 
 ## Usage
 
-Ask your agent to run Copy Pass on a draft:
+Ask your agent to run copy-pass on a draft:
 
 ```text
-Run Copy Pass on this landing page copy before we send it to the senior writer.
+Run copy-pass on this landing page copy before we send it to the senior writer.
 ```
 
 Or:
 
 ```text
-Review this campaign copy using Copy Pass. Strengthen the hook, CTA, objections, and emotional trigger, then give me the revised version.
+Review this campaign copy using copy-pass. Strengthen the hook, CTA, objections, and emotional trigger, then give me the revised version.
 ```
 
 ## What the agent should return

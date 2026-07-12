@@ -4,7 +4,7 @@ description: >
   Use when reviewing marketing, product, campaign, landing page, email, SMS, ad,
   or social copy before senior writer review. Strengthens persuasion, hooks, CTAs,
   objection handling, emotional triggers, platform fit, and message clarity. Run
-  after drafting and before Humaniser. Best paired with Humaniser: https://github.com/kastrah/humaniser
+  after drafting and before humaniser. Best paired with humaniser: https://github.com/kastrah/humaniser
 version: 1.0.0
 author: Kastrah
 license: MIT
@@ -14,15 +14,15 @@ metadata:
     related_skills: [humaniser]
 ---
 
-# Copy Pass
+# copy-pass
 
 ## Overview
 
 ## Source scope
 
-Copy Pass is condensed from marketing, advertising, copywriting, argumentation, and behaviour-change books/playbooks listed in `references/index.md`. Full extracted framework notes live in `references/source-frameworks/`.
+copy-pass is condensed from marketing, advertising, copywriting, argumentation, and behaviour-change books/playbooks listed in `references/index.md`. Full extracted framework notes live in `references/source-frameworks/`.
 
-Copy Pass is a pre-senior-writer review skill. Use it to make a draft more persuasive, specific, and commercially useful before a senior writer reviews it.
+copy-pass is a pre-senior-writer review skill. Use it to make a draft more persuasive, specific, and commercially useful before a senior writer reviews it.
 
 This skill is not a grammar pass. It is not a generic rewrite pass. It checks whether the copy gives the reader a clear reason to care, believe, and act.
 
@@ -33,16 +33,16 @@ The output should improve the copy while preserving the underlying strategy. Do 
 Run this sequence:
 
 ```text
-Research → Draft → Copy Pass → Humaniser → Senior writer review → Publish
+Research → Draft → copy-pass → humaniser → Senior writer review → Publish
 ```
 
-Copy Pass must run before Humaniser.
+copy-pass must run before humaniser.
 
-Why: Copy Pass may add structure, urgency, objection handling, or CTA pressure. Those edits can introduce patterns that sound like AI writing. Humaniser should run after the persuasion work so the final draft sounds natural.
+Why: copy-pass may add structure, urgency, objection handling, or CTA pressure. Those edits can introduce patterns that sound like AI writing. humaniser should run after the persuasion work so the final draft sounds natural.
 
 ## When to use this skill
 
-Use Copy Pass when the user asks to:
+Use copy-pass when the user asks to:
 
 - review copy before a senior writer sees it
 - improve landing page copy
@@ -56,7 +56,7 @@ Do not use it for:
 
 - purely factual documentation
 - legal, medical, or compliance review
-- final AI-tell cleanup after all edits are done; use Humaniser for that
+- final AI-tell cleanup after all edits are done; use humaniser for that
 - inventing campaign strategy from scratch without a brief
 
 ## Inputs to collect before reviewing
@@ -199,9 +199,9 @@ Do not force a landing-page structure into a social post. Lead with the tension,
 
 Prioritise clarity. Use one idea, one audience, one action. Remove secondary arguments unless they directly support the click or walk-in behavior.
 
-## Quality bar before Humaniser
+## Quality bar before humaniser
 
-Before handing off to Humaniser, confirm:
+Before handing off to humaniser, confirm:
 
 - The reader knows why this matters.
 - The reader knows what to do next.
@@ -213,7 +213,7 @@ Before handing off to Humaniser, confirm:
 
 ## Common pitfalls
 
-1. Running Humaniser first. That makes the draft cleaner before the persuasion work, then Copy Pass can reintroduce AI-sounding patterns.
+1. Running humaniser first. That makes the draft cleaner before the persuasion work, then copy-pass can reintroduce AI-sounding patterns.
 2. Treating every draft like a landing page. A WhatsApp message, SMS, social post, and banner need different pressure and structure.
 3. Adding persuasion by adding more words. Often the stronger edit is shorter.
 4. Inventing proof. If the claim needs evidence and none is available, flag it.
@@ -231,10 +231,10 @@ Before returning the final answer:
 - [ ] I preserved the brief and did not invent unsupported claims.
 - [ ] I made the CTA hierarchy clear.
 - [ ] I kept internal notes out of the public copy.
-- [ ] I stated that Humaniser should run after this pass.
+- [ ] I stated that humaniser should run after this pass.
 
-## Pair with Humaniser
+## Pair with humaniser
 
-Copy Pass strengthens the message. Humaniser cleans the voice.
+copy-pass strengthens the message. humaniser cleans the voice.
 
-After this skill improves the hook, structure, CTA, and persuasion logic, run [Humaniser](https://github.com/kastrah/humaniser) to remove AI tells, smooth the rhythm, and make the final draft sound like a person wrote it.
+After this skill improves the hook, structure, CTA, and persuasion logic, run [humaniser](https://github.com/kastrah/humaniser) to remove AI tells, smooth the rhythm, and make the final draft sound like a person wrote it.
