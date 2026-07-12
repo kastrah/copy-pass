@@ -4,9 +4,7 @@ copy-pass is a senior-writer review skill for improving marketing and product co
 
 Use it after the first draft and before final humanisation. The skill does not try to make copy sound more natural. Its job is to strengthen the message: the promise, hook, structure, objection handling, CTA, emotional trigger, and platform fit.
 
-Best paired with [humaniser](https://github.com/kastrah/humaniser), which should run after copy-pass to remove AI tells and make the final copy sound more human.
-
-The tools work on different layers, not different mediums. copy-pass strengthens hook, CTA, objections, and platform fit. care-review checks that the same message sounds conversational, not robotic. Both can apply to the same text.
+Best paired with [humaniser](https://github.com/kastrah/humaniser), which should run after copy-pass to remove AI tells and make the final copy sound more human. For the conversational check, use [care-review](https://github.com/kastrah/care-review).
 
 ## Source material
 
