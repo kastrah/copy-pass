@@ -6,6 +6,8 @@ Use it after the first draft and before final humanisation. The skill does not t
 
 Best paired with [Humaniser](https://github.com/kastrah/humaniser), which should run after Copy Pass to remove AI tells and make the final copy sound more human.
 
+For message-level review (emails, SMS, WhatsApp, complaint responses), use [care-review](https://github.com/kastrah/care-review) instead. Copy Pass is for content; care-review is for messages to a specific person.
+
 ## Source material
 
 Copy Pass condenses reusable frameworks from 19 marketing, advertising, copywriting, argumentation, and behaviour-change books/playbooks. See `references/index.md` for the full source list and `references/source-frameworks/` for the extracted framework notes.
@@ -21,10 +23,30 @@ Copy Pass condenses reusable frameworks from 19 marketing, advertising, copywrit
 - Platform mismatch, especially when the same copy is reused across email, social, landing pages, SMS, and ads
 - Objections that a reader will have but the draft ignores
 
+## How it fits with other tools
+
+This tool is part of a three-skill writing stack. Each tool does one job well.
+
+| Tool | What it does | When to use it |
+|------|-------------|----------------|
+| Copy Pass | Strengthens persuasion: hooks, CTAs, objections, emotional triggers, platform fit | Before a senior writer reviews copy. Not for final cleanup. |
+| [Humaniser](https://github.com/kastrah/humaniser) | Removes AI writing patterns and makes text sound natural | After copy pass. Final voice pass before publishing. |
+| [care-review](https://github.com/kastrah/care-review) | Checks whether a message is conversational, actionable, richer than asked, and ends with a reason to reply | Before any customer-facing message goes out. |
+
+### If you are on copy-pass but need something else
+
+- **Your copy sounds like AI wrote it** → use [Humaniser](https://github.com/kastrah/humaniser)
+- **You are writing an email, SMS, WhatsApp message, or complaint response** → use [care-review](https://github.com/kastrah/care-review)
+- **You are writing a blog, landing page, or article** → stay here, then run [Humaniser](https://github.com/kastrah/humaniser) after
+
 ## Recommended workflow
 
 ```text
-Research → Draft → Copy Pass → Humaniser → Senior writer review → Publish
+Content for a general audience:
+Research → Draft → Copy Pass → Humaniser → final review → publish
+
+Messages for a specific person:
+Draft → care-review → revise → send
 ```
 
 Run Copy Pass before Humaniser. Copy Pass adds persuasion structure, and that can reintroduce patterns that sound like AI writing. Humaniser should clean the final draft after the persuasive edits are in place.
