@@ -5,7 +5,7 @@ description: >
   or social copy before senior writer review. Strengthens persuasion, hooks, CTAs,
   objection handling, emotional triggers, platform fit, and message clarity. Run
   after drafting and before humaniser. Best paired with humaniser: https://github.com/kastrah/humaniser
-version: 1.0.0
+version: 1.1.0
 author: Kastrah
 license: MIT
 metadata:
@@ -82,6 +82,19 @@ Open `references/review-checklist.md` first. Use it to check the draft across st
 
 Return only the failures that matter. Do not pad the review with every minor issue.
 
+### 1a. Check the Thread and Progression
+
+Before strengthening persuasion, trace the argument from one paragraph to the next:
+
+- Each paragraph has a distinct job.
+- Each opening either continues an established subject or establishes the new context before making a claim.
+- A transition names the relationship between ideas instead of relying on a loose connector such as "also" or "during this period."
+- Research appears because it clarifies the subject's situation or stakes, not because it fills space.
+- The primary goal or outcome leads. Process, deliverables, and output counts support it.
+- Repeated ideas are cut or reframed to add a cause, decision, evidence, or consequence.
+
+Read only the first sentence of each paragraph in order. If the sequence feels like a list of unrelated facts, repair the thread before polishing individual lines.
+
 ### 2. Diagnose the main weakness
 
 Name the problem before rewriting. Common diagnoses:
@@ -117,8 +130,10 @@ Prefer:
 - concrete benefits over abstract claims
 - one primary CTA over multiple competing CTAs
 - specific context over generic urgency
+- explicit connections between adjacent ideas over abrupt topic changes
 - direct sentences over rhetorical throat-clearing
 - proof where a claim needs support
+- verified source language over a weaker paraphrase
 - reader language over internal product language
 
 Avoid:
@@ -207,6 +222,11 @@ Before handing off to humaniser, confirm:
 
 - The reader knows why this matters.
 - The reader knows what to do next.
+- Every paragraph has a distinct job and follows from the argument before it.
+- The primary goal or outcome is more prominent than the process or deliverables.
+- No research point or market claim appears without a clear reason for being there.
+- The draft adds useful detail rather than repeating the premise or padding the section.
+- Key terms stay consistent; variation does not blur the meaning.
 - The CTA hierarchy is clear.
 - The main objection has been addressed.
 - The copy does not depend on vague claims.
